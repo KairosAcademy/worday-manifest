@@ -1,0 +1,8 @@
+{
+  "latestVersion": "2.0",
+  "updateUrl": {
+    "android": "https://play.google.com/store/apps/details?id=com.KairosAcademy.Worday",
+    "ios": "https://apps.apple.com/app/worday/id6742143018"
+  },
+  "forceUpdate": true
+}
